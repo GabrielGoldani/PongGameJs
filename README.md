@@ -4,4 +4,4 @@ This is a basic javascript game made in Alura's introductory game development co
 
 ## Some photos of the game
 
-![CPT2306280151-600x397](https://github.com/GabrielGoldani/FreewayGameJs/assets/100892861/26724b4e-3ec9-4001-829b-d2603826c832)
+![CPT2306280159-606x403](https://github.com/GabrielGoldani/PongGameJs/assets/100892861/cf91a0b9-7c2d-4e6e-bb79-fbba9942891d)
